@@ -5,14 +5,14 @@ supersafepw
 
 
 created account:  braintheman / 123123123
-
 gave QR code
 otpauth://totp/OTP-Chal:braintheman?secret=YFLKONE5ZATOPJFAJUQAXCRMLFJMCMHF
+base32 decodes to C156A7349DC826E7A4A04D200B8A2C5952C130E5
+
 
 created account: thisandthat / password
-
 gave GQ code:
 otpauth://totp/OTP-Chal:thisandthat?secret=UITI3CN4FUOAPEWCVKHEVAGXHCWHKPKT
+base32 decodes to A2268D89BC2D1C0792C2AA8E4A80D738AC753D53
 
-
-does not appear to be MD5 hash
+google auth uses base32 TOTP
