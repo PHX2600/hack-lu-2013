@@ -11,7 +11,7 @@ otpauth://totp/OTP-Chal:braintheman?secret=YFLKONE5ZATOPJFAJUQAXCRMLFJMCMHF
 
 
 created account: thisandthat / password
-gave GQ code:
+gave QR code:
 otpauth://totp/OTP-Chal:thisandthat?secret=UITI3CN4FUOAPEWCVKHEVAGXHCWHKPKT
 
 aaaabbbb / supersafepw
