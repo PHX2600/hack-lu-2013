@@ -14,4 +14,12 @@ created account: thisandthat / password
 gave GQ code:
 otpauth://totp/OTP-Chal:thisandthat?secret=UITI3CN4FUOAPEWCVKHEVAGXHCWHKPKT
 
+aaaabbbb / supersafepw
+otpauth://totp/OTP-Chal:aaaaabbbb?secret=OH5V7OM7XHBIBC7ASWN2VP3ISDRNSFS5
+otpauth://totp/OTP-Chal:aaaaabbbc?secret=4HOWVGGJEP4S2QQPDXGC6N33CM2KUWVS
+otpauth://totp/OTP-Chal:aaaaabbbd?secret=Q72YOMSHTX3SINGAWUAXWHT4GZBUBTNC
 
+
+OH5V7OM7XHBIBC7ASWN2VP3ISDRNSFS5
+4HOWVGGJEP4S2QQPDXGC6N33CM2KUWVS
+Q72YOMSHTX3SINGAWUAXWHT4GZBUBTNC
