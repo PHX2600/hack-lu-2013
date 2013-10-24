@@ -21,12 +21,12 @@ sha1 of thisandthat
 7e1889b97dac65fb09430b2cc1c6b29ee8d13cd1
 sha1 of thisandthatpassword
 ae4c1a148c9326931163bbc1d5a7818bfa4ae34d
-	base32 of above = MFSTIYZRMEYTIODDHEZTENRZGMYTCNRTMJRGGMLEGVQTOOBRHBRGMYJUMFSTGN
 sha1 of password
 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
 base32 of thisandthat
 ORUGS43BNZSHI2DBOQ======
-
+base32 of thisandthatpassword
+ORUGS43BNZSHI2DBORYGC43TO5XXEZA=
 
 
 
