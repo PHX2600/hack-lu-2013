@@ -4,6 +4,8 @@
 #			To install requests, run: pip install requests
 #			or
 #			download&extract: https://pypi.python.org/packages/source/r/requests/requests-2.0.0.tar.gz , Run: python setup.py install
+#Country Abbr:
+#	http://www.paladinsoftware.com/Generic/countries.htm
 #
 
 import requests
