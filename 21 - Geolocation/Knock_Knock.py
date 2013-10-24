@@ -1,5 +1,10 @@
 #AUTHOR: Sh1n0b1
 #Yes, it's sloppy
+#Dependency: Python requests
+#			To install requests, run: pip install requests
+#			or
+#			download&extract: https://pypi.python.org/packages/source/r/requests/requests-2.0.0.tar.gz , Run: python setup.py install
+#
 
 import requests
 import sys
