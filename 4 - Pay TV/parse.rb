@@ -1,3 +1,5 @@
+#run with ruby parse.rb - will parse file "output" in local dir by default
+
 File.open("output", "r") do |infile|
     while (line = infile.gets)
 	puts line.first
