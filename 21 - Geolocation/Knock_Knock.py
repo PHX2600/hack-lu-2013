@@ -11,7 +11,7 @@ import sys
 import re
 
 if(len(sys.argv) <= 1):
-	print "\tpython proxy.py [ip:port]"
+	print "\tpython Knock_Knock.py [ip:port]"
 	sys.exit()
 
 arg = sys.argv[1];
